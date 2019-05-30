@@ -1,8 +1,9 @@
-1111
+2211
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
-gong zuo qu he zan cun qu yan zheng 1.
+gong zuo qu he zan cun qu duo ren xie tong.
 123534545678
-Git sua0iand ajax
 yanzheng hahah
+Git linux shell python database 
+instand of Java Java web
 n0ew broldnch dev
